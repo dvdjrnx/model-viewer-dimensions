@@ -1,4 +1,4 @@
-# <model-viewer> getDimensions() test
+# model-viewer getDimensions() test
 
 This project is a prototyping test of `<model-viewer>`'s `getDimensions()` method. It mounts a `<model-viewer>` instance when a file is dropped on the UI's drop zone, and the `<model-viewer>`'s `src` attribute is set to an object URL of the model. The moment the model loads, `getDimensions()` is called and x, y, and z dimensions are displayed.
 
