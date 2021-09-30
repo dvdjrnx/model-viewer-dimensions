@@ -8,7 +8,7 @@ Included in the code is a call to `console.time('getDimensions')` that runs on f
 
 Clone this repo and then run the following commands:
 
-```
+```bash
 # cd into project directory
 $ cd model-viewer-dimensions
 
