@@ -10,7 +10,7 @@ This project can be previewed at https://dvdjrnx.github.io/model-viewer-dimensio
 
 There is a small "hamburger-draco.glb" file in the public folder of this repo. You can [download the .glb file](https://github.com/dvdjrnx/model-viewer-dimensions/blob/master/public/hamburger-draco.glb) and used to test functionality if you don't have any .glb files handy yourself. Whatever .glb file you use, you simply need to drag and drop the file onto the dropzone on the project page and it will show you both the model and its dimensions.
 
-## Getting started
+## Running the project locally
 
 Clone this repo and then run the following commands:
 
