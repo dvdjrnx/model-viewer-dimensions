@@ -2,6 +2,7 @@
   "name": "model-viewer-dimensions",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dvdjrnx.github.io/model-viewer-dimensions",
   "dependencies": {
     "@google/model-viewer": "^1.8.0",
     "cra-template": "1.1.2",
